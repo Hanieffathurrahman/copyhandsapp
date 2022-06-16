@@ -7,7 +7,6 @@ nltk
 pandas
 scikit-learn
 mediapipe
-csv
 
 
 
